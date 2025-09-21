@@ -1,0 +1,14 @@
+[
+     {
+          "id": "letterhead",
+          "name": "White Letterhead",
+          "url": "https://raw.githubusercontent.com/YOUR_USER/eoffice-templates/main/templates/letterhead.docx",
+          "description": "Basic letter with header/footer"
+     },
+     {
+          "id": "quotation",
+          "name": "Quotation Template",
+          "url": "https://raw.githubusercontent.com/YOUR_USER/eoffice-templates/main/templates/quotation.docx",
+          "description": "Quotation format"
+     }
+]
