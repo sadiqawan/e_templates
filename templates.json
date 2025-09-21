@@ -2,7 +2,7 @@
      {
           "id": "letterhead",
           "name": "White Letterhead",
-          "url": "https://raw.githubusercontent.com/YOUR_USER/eoffice-templates/main/templates/letterhead.docx",
+          "url": "https://github.com/sadiqawan/e_templates/blob/main/letterhead.docx",
           "description": "Basic letter with header/footer"
      },
      {
@@ -11,4 +11,5 @@
           "url": "https://raw.githubusercontent.com/YOUR_USER/eoffice-templates/main/templates/quotation.docx",
           "description": "Quotation format"
      }
+
 ]
